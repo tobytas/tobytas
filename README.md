@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tobytas
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Android Framework
-- 💞️ I’m looking to collaborate on Android projects
+- 👋 Hi, I’m Andrei Maisak
+- 👀 I’m interested in Salesforce Platform
+- 💞️ I’m looking to collaborate on Salesforce projects
 - 📫 How to reach me wondergab12@gmail.com
 
 <!---
